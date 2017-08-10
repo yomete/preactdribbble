@@ -24,7 +24,6 @@
   },
   "dependencies": {
     "axios": "^0.16.2",
-    "bulma": "^0.5.1",
     "preact": "^8.2.1",
     "preact-compat": "^3.17.0",
     "preact-router": "^2.5.5"
