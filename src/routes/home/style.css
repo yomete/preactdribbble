@@ -1,0 +1,45 @@
+.home {
+	padding: 56px 20px;
+	width: 100%;
+	margin-top: 20px;
+}
+a {
+	color: #3a8bbb;
+}
+a:hover {
+	text-decoration:  none;
+}
+.box {
+	padding: 20px;
+	background-color: white;
+	margin-bottom: 20px;
+	box-shadow: 5px 5px 25px 0px rgba(46,61,73,0.2);
+	border-radius: 0.375rem;
+	transition: all 0.3s ease;
+}
+.title {
+	text-align: center;
+	font-size: 15px;
+	display: table;
+	margin: 20px auto;
+	font-weight: bold;
+}
+.box img {
+	width: 100%;
+}
+.userprofile {
+	display: table;
+	margin: 0 auto;
+}
+.userprofile a {
+	margin-left: 10px;
+}
+.userprofile img {
+	width: 35px;
+	border-radius: 50%;
+}
+@media (min-width: 767px) {
+	.box {
+		height: 420px;
+	}
+}
